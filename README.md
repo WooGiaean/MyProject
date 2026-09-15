@@ -1,3 +1,4 @@
+ HEAD
 # VC-pro
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -46,3 +47,7 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+# MyProject
+仓库用于存放我练习的项目代码
+6ca78bb88cbd8ea27f5a88a8d75c7d7295bb94b8
